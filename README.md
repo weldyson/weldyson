@@ -9,7 +9,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://user-images.githubusercontent.com/84719774/129191080-723b3b46-4e0b-4aa5-8eb9-654c2c025b18.png">    
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://www.pngwing.com/en/free-png-dtrkx">    
   <img align="center" alt="Rafa-Solidity" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
   
   <

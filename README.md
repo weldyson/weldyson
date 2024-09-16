@@ -1,4 +1,4 @@
-<h1> Hi 👋, my name is Weldyson de Azevedo and I'm a Back-End Developer </h1>
+<h1> Hi 👋, my name is Weldyson de Azevedo and I'm a Software Engineer </h1>
 <p>
 👩‍💻 Welcome! I have a deep passion for developing solid and comprehensive systems. My journey as a developer is marked by an incessant desire for improvement, both personally and professionally. In a world that demands so much from us, it becomes crucial to have the ability to handle complex challenges effectively and creatively.
 </p>
@@ -16,13 +16,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Frontend:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
 
 ### Database:

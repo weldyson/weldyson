@@ -1,6 +1,6 @@
 <h1> Hi 👋, my name is Weldyson de Azevedo and I'm a Software Engineer </h1>
 <p>
-👩‍💻 Welcome! I have a deep passion for developing solid and comprehensive systems. My journey as a developer is marked by an incessant desire for improvement, both personally and professionally. In a world that demands so much from us, it becomes crucial to have the ability to handle complex challenges effectively and creatively.
+👨‍💻 Welcome! I have a deep passion for developing solid and comprehensive systems. My journey as a developer is marked by an incessant desire for improvement, both personally and professionally. In a world that demands so much from us, it becomes crucial to have the ability to handle complex challenges effectively and creatively.
 </p>
 
 <h3>Contacts</h3>

@@ -11,7 +11,7 @@
 
 ## 🧙🏼 Technologies
 
-<h3>Java | Spring Boot | Docker | SQL | Docker 🚀<h3>     
+  <h3> Backend | Java | Spring Boot | Kafka | SQL 🚀</h3>     
 
 
 

@@ -4,7 +4,6 @@
 
 Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. em **Java, Spring Boot e arquitetura de microsserviços**, iniciei minha jornada na área de TI em 2023. Tenho experiência prática na criação de **APIs RESTful**, **computação em nuvem (AWS)** e integração de serviços em sistemas distribuídos.  
 
-🧠 Apaixonado por boas práticas como os princípios **SOLID**, busco constantemente evolução com as tecnologias mais recentes. Atualmente, também estou aprendendo **React** para expandir minha visão full stack.
 
 ---
 

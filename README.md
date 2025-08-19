@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Backend | Java | Spring Boot | SQL | Docker`**
 
-Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. em **Java, Spring Boot e arquitetura de microsserviços**, iniciei minha jornada na área de TI em 2023. Tenho experiência prática na criação de **APIs RESTful**, **computação em nuvem (AWS)** e integração de serviços em sistemas distribuídos.  
-
+Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. em **Java, Spring Boot e arquitetura de microsserviços**, 
 
 ---
 
@@ -13,14 +12,13 @@ Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. 
 ### 🧰 Linguagens e Tecnologias
 
 
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 <img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img  align="left" alt="SQLServer" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />          
 <img align="left" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Delphi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" />          
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -29,6 +27,9 @@ Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. 
 <br/>
 <br/>
 
+
+            
+          
 
 
 ---

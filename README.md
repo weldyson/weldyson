@@ -18,7 +18,7 @@ Back-end developer focused on scalable and efficient solutions with expertise in
 
 
 
-### 🧰 Tecnologies
+### 🧰 Technologies
 
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
@@ -43,7 +43,7 @@ Back-end developer focused on scalable and efficient solutions with expertise in
 
 ---
 
-### 🚀 Destaques Projects
+### 🚀 Featured Projects
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
@@ -55,7 +55,7 @@ Back-end developer focused on scalable and efficient solutions with expertise in
 
 ---
 
-### 📫 Onde me encontrar?
+### 📫 Let's Connect
 
 <p align="left"> <a href="https://www.linkedin.com/in/weldyson-de-azevedo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Weldyson%20de%20Azevedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Weldyson" /> 
 </a> <br/>

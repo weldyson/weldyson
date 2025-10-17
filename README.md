@@ -2,14 +2,23 @@
 
 **`Desenvolvedor Backend | Java | Spring Boot | SQL | Docker`**
 
-Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. em **Java, Spring Boot e arquitetura de microsserviços**, 
+Back-end developer focused on scalable and efficient solutions with expertise in Java, Spring Boot, Delphi, and microservices architecture. **, 
+
+---
+
+🚀 About Me
+
+💻 Technology enthusiast
+🔭 Astronomy lover
+👨‍👩‍👧‍👦 Family man
+🌌 Always curious about the universe
 
 ---
 
 
 
 
-### 🧰 Linguagens e Tecnologias
+### 🧰 Tecnologies
 
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
@@ -34,7 +43,7 @@ Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. 
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Destaques Projects
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
@@ -54,9 +63,8 @@ Sou desenvolvedor back-end com foco em **soluções escaláveis e eficientes**. 
 
 ---
 
-### 📊 Estatísticas GitHub
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=weldyson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="GitHub Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldyson&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=10" />
+<p align="center">
+  <i>"The universe is under no obligation to make sense to you." - Neil deGrasse Tyson</i>
 </p>
+

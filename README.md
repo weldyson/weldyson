@@ -1,19 +1,13 @@
 # 👨🏻‍💻 Weldyson de Azevedo
 
-**`Desenvolvedor Backend | Java | Spring Boot | SQL | Docker`**
+**`Desenvolvedor Backend | Java | Spring Boot | SQL | Docker | Delphi`**
 
-Back-end developer focused on scalable and efficient solutions with expertise in Java, Spring Boot, Delphi, and microservices architecture. **, 
-
----
-
-🚀 About Me
-
-💻 Technology enthusiast
-🔭 Astronomy lover
-👨‍👩‍👧‍👦 Family man
-🌌 Always curious about the universe
+Back-end developer focused on scalable and efficient solutions with expertise in Java, Spring Boot and microservices architecture. **, 
 
 ---
+
+
+
 
 
 

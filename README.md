@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Weldyson de Azevedo
 
-**`Desenvolvedor Backend | Java | Spring Boot | SQL | Docker | Delphi`**
+**`Desenvolvedor Backend | Java | Spring Boot | SQL | Docker`**
 
 Back-end developer focused on scalable and efficient solutions with expertise in Java, Spring Boot and microservices architecture. **, 
 
@@ -57,6 +57,6 @@ Back-end developer focused on scalable and efficient solutions with expertise in
 
 
 <p align="center">
-  <i>"The universe is under no obligation to make sense to you." - Neil deGrasse Tyson</i>
+  <i>- “Somewhere, something incredible is waiting to be known.” — Carl Sagan</i>
 </p>
 

@@ -56,7 +56,22 @@ Back-end developer focused on scalable and efficient solutions with expertise in
 ---
 
 
+---
+
+---
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldyson&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    </td>    
+  </tr>
+</table>
+
 <p align="center">
+  <br />
   <i>- “Somewhere, something incredible is waiting to be known.” — Carl Sagan</i>
 </p>
 

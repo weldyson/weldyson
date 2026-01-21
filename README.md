@@ -55,11 +55,6 @@ Back-end developer focused on scalable and efficient solutions with expertise in
 
 ---
 
-
----
-
----
-
 ### 📊 GitHub Stats
 
 <table align="center">

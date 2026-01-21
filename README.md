@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Weldyson de Azevedo
 
-**`Desenvolvedor Backend | Java | Spring Boot | SQL | Docker`**
+**`Backend developer| Java | Spring Boot | SQL | Docker`**
 
 Back-end developer focused on scalable and efficient solutions with expertise in Java, Spring Boot and microservices architecture. **, 
 
@@ -24,6 +24,7 @@ Back-end developer focused on scalable and efficient solutions with expertise in
   <img alt="Postman" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img alt="Redis" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </p>
 💻 IDEs and Development Tools
 <p align="left">
